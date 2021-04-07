@@ -6,7 +6,7 @@ export default function Home({ cities }) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>GitHub Users NextJs App</title>
+        <title>Weather App</title>
         <link rel="icon" href="/favicon.ico" />
         <link
           rel="stylesheet"
